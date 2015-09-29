@@ -1,1 +1,2 @@
 Okeanos test1 VM1
+okeanos test2 VM1
