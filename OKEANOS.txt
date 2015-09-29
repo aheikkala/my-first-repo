@@ -1,6 +1,4 @@
 Okeanos test1 VM1
-<<<<<<< HEAD
-okeanos test2 VM1
-=======
-okeanos test2 VM2
->>>>>>> 79ab7ecbde082d107fc03c52c60bc180dd004e39
+
+I fixed unmerged paths from 2 Virtual Machines with nano text editor. 
+Now the conflict should be resolved.
